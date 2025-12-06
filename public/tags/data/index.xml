@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Data on Nokib Desk</title>
+    <link>/tags/data/</link>
+    <description>Recent content in Data on Nokib Desk</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Nov 2025 11:00:00 +0600</lastBuildDate>
+    <atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traffic Experiments: Paid Ads vs. SEO (Data Logs)</title>
+      <link>/posts/traffic-experiments/</link>
+      <pubDate>Sat, 15 Nov 2025 11:00:00 +0600</pubDate>
+      <guid>/posts/traffic-experiments/</guid>
+      <description>I spent $5,000 on ads and 500 hours on SEO. Here is the real ROI data from my latest campaign.</description>
+    </item>
+  </channel>
+</rss>

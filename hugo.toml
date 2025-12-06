@@ -1,0 +1,7 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Nokib Desk'
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 8

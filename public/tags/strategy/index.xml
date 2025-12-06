@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Strategy on Nokib Desk</title>
+    <link>/tags/strategy/</link>
+    <description>Recent content in Strategy on Nokib Desk</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Dec 2025 12:00:00 +0600</lastBuildDate>
+    <atom:link href="/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Monetization: Make Every Visitor Profitable</title>
+      <link>/posts/hybrid-monetization/</link>
+      <pubDate>Wed, 03 Dec 2025 12:00:00 +0600</pubDate>
+      <guid>/posts/hybrid-monetization/</guid>
+      <description>Stop relying on one income stream. Learn how to combine Ads, CPA offers, and Subscriptions to build a money machine.</description>
+    </item>
+    <item>
+      <title>Affiliate Dev Handbook: Building Tools That Sell Themselves</title>
+      <link>/posts/affiliate-dev-handbook/</link>
+      <pubDate>Mon, 01 Dec 2025 09:00:00 +0600</pubDate>
+      <guid>/posts/affiliate-dev-handbook/</guid>
+      <description>Stop building landing pages. Start building utilities. A comprehensive guide to software-led marketing and programmatic SEO.</description>
+    </item>
+  </channel>
+</rss>

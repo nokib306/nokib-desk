@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nginx on Nokib Desk</title>
+    <link>/tags/nginx/</link>
+    <description>Recent content in Nginx on Nokib Desk</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Nov 2025 14:30:00 +0600</lastBuildDate>
+    <atom:link href="/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High-Traffic Server Configs: Nginx &amp; Docker Optimization</title>
+      <link>/posts/server-configs/</link>
+      <pubDate>Fri, 28 Nov 2025 14:30:00 +0600</pubDate>
+      <guid>/posts/server-configs/</guid>
+      <description>Handling 100k+ concurrent connections without melting your CPU. Production-ready Nginx and Docker setups.</description>
+    </item>
+  </channel>
+</rss>
